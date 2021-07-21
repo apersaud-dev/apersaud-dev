@@ -1,17 +1,17 @@
 <h2>Hello 👋 My name is Andrew and I am a Full Stack Developer</h2>
 <h3>A bit about me:</h3>
 <p>:mortar_board: I am a web dev bootcamp grad <br></p>
-<p>:chart_with_upwards_trend: Former marketer in the tech and retail industries</p>
-<p>:speaking_head: Studied Speech Communication at the University of Waterloo <br></p>
-<p>:books: Looking to learn and try out: TypeScript, MongoDB, Tailwind CSS </p>
-<p>:raising_hand_man: he/him</p>
+<p>:chart_with_upwards_trend: &nbsp; Former marketer in the tech and retail industries</p>
+<p>:speaking_head: &nbsp; Studied Speech Communication at the University of Waterloo <br></p>
+<p>:books: &nbsp; Looking to learn and try out: TypeScript, MongoDB, Tailwind CSS </p>
+<p>:raising_hand_man: &nbsp; he/him</p>
 
 </br>
 When i'm not at my screen:
 <ul>
-  <li>:basketball_man: I love to be outdoors and active</li>
-  <li>:man_cook: Test out new recipes</li>
-  <li>:tv: Consume stories (currently on an anime binge)</li>
+  <li>:basketball_man: &nbsp; I love to be outdoors and active</li>
+  <li>:man_cook: &nbsp; Test out new recipes</li>
+  <li>:tv: &nbsp; Consume stories (currently on an anime binge)</li>
 </ul>
 
 
