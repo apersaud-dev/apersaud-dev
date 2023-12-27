@@ -3,7 +3,7 @@
 <p>:mortar_board: I am a web dev bootcamp grad <br></p>
 <p>:chart_with_upwards_trend: &nbsp; Former marketer in the tech and retail industries</p>
 <p>:speaking_head: &nbsp; Studied Speech Communication at the University of Waterloo <br></p>
-<p>:books: &nbsp; Looking to learn and try out: TypeScript, MongoDB, Tailwind CSS </p>
+<p>:books: &nbsp; Currently learning: Python, GraphQL</p>
 <p>:raising_hand_man: &nbsp; he/him</p>
 
 </br>
